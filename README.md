@@ -1,7 +1,7 @@
 jwt-gen
 =======
 
-JWT Token Generator with HMAC Verification 
+Generates JWT Tokens with HMAC Protection
 
 Run with:
 
